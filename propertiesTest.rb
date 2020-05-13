@@ -10,3 +10,4 @@ end
 obj1 = Movie.new('Forrest Gump')
 obj1.name = 'Fight Club'
 p obj1.name #=> 'Fight Club'
+
